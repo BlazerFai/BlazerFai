@@ -7,6 +7,11 @@ Hi!! I'm **Faisal**, 21 years old.
   
 ![statscard](https://pixel-profile-ui.vercel.app/api/github-stats?username=BlazerFai&screen_effect=true&include_all_commits=true&pixelate_avatar=true&background=linear-gradient%280deg%2C+%23165a4cFF+0%25%2C+%2391db69FF+100%25%29+&color=%23ffffffFF)
 
+## Fun projects 🙇‍♂️
+[![Readme Card](https://github-readme-stats-indol-eta-80.vercel.app/api/pin/?username=blazerfai&repo=Stock-Market-Prediction&theme=github_dark)](https://github.com/BlazerFai/Stock-Market-Prediction)
+[![Readme Card](https://github-readme-stats-indol-eta-80.vercel.app/api/pin/?username=blazerfai&repo=Rainfall-Prediction&theme=github_dark)](https://github.com/BlazerFai/Rainfall-Prediction)
+[![Readme Card](https://github-readme-stats-indol-eta-80.vercel.app/api/pin/?username=blazerfai&repo=OSProjectUp2You&theme=github_dark)](https://github.com/BlazerFai/OSProjectUp2You)
+
 ## Preferred Programming Languages 🧑‍💻
 [![My Skills](https://skillicons.dev/icons?i=java,python,c)](https://skillicons.dev)
 
